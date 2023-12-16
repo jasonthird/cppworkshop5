@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jason/c++workshop/Day 1: Trebuchet?!/part2/CalibrationCalculate.cpp
+CalibrationCalculate.h
+/home/jason/c++workshop/Day 1: Trebuchet?!/part2/CalibrationCalculate.h
+string
+-
+vector
+-
+map
+-
+
+/home/jason/c++workshop/Day 1: Trebuchet?!/part2/CalibrationCalculate.h
+string
+-
+vector
+-
+

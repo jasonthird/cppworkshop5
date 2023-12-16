@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCalibrationCalculate.a  CMakeFiles/CalibrationCalculate.dir/CalibrationCalculate.cpp.o
+/usr/bin/ranlib libCalibrationCalculate.a

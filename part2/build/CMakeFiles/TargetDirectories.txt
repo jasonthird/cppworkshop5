@@ -1,0 +1,4 @@
+/home/jason/c++workshop/Day 1: Trebuchet?!/part2/build/CMakeFiles/rebuild_cache.dir
+/home/jason/c++workshop/Day 1: Trebuchet?!/part2/build/CMakeFiles/edit_cache.dir
+/home/jason/c++workshop/Day 1: Trebuchet?!/part2/build/CMakeFiles/app.dir
+/home/jason/c++workshop/Day 1: Trebuchet?!/part2/build/CMakeFiles/CalibrationCalculate.dir
